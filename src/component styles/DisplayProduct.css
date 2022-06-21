@@ -1,0 +1,20 @@
+.displayContainer {
+    background-color: chocolate;
+    margin-top: 5% !important;
+}
+img {
+    height: 300px !important; 
+    width: 300px !important;
+}
+.desc, .productDetails {
+    font-weight: bolder !important;
+    margin-top: 10px;
+}
+.desc {
+    text-align: center;
+    margin-top: 10px !important;
+}
+.productDetails  {
+    text-align: center;
+    text-transform: uppercase;
+}

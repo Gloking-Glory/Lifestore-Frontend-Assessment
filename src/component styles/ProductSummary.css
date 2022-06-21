@@ -1,0 +1,13 @@
+.modal {
+    margin-top: 5%;
+}
+.cartImage {
+    display: block;
+    height: 150px !important;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px !important;
+}
+.dismissModal {
+    text-align: right;
+}
